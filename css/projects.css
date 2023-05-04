@@ -1,0 +1,26 @@
+#canvas{
+    position:absolute;
+    background-color:gray;
+    margin-top:100px;
+    left:5%;
+    border-radius : 10px;
+    border: 3px solid black;
+}
+
+h2{
+    color:black;
+}
+
+img{
+    width: 40%;
+    height: auto;
+}
+
+#telepizza{
+    position:absolute;
+    background-color:gray;
+    margin-top:100px;
+    left: 40%;
+    border-radius : 10px;
+    border: 3px solid black;
+}
